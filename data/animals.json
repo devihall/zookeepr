@@ -153,6 +153,15 @@
         "zany"
       ],
       "id": "15"
+    },
+    {
+      "name": "latrice",
+      "species": "Lemur",
+      "diet": "folivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "16"
     }
   ]
 }
